@@ -378,7 +378,7 @@
     },
     "alteredStats": []
   },
-  "CurrentEncounter": null,
+  "CurrentEncounter": "",
   "HighestZoneVisited": 1,
   "itemsToMoveToStash": []
 }
