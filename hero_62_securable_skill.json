@@ -1,0 +1,327 @@
+{
+    "HeroId": 62,
+    "CurrentTile": 1,
+    "Hero": {
+      "id": 62,
+      "playerId": "6371d2bb2835f67253654cbd",
+      "name": "DCX Claim Hero7",
+      "heroClass": "Warrior",
+      "gender": "Male",
+      "remainingHitPointsPercentage": 100,
+      "totalHitPoints": 10,
+      "remainingHitPoints": 10,
+      "baseSkillPoints": 12,
+      "remainingSkillPoints": 12,
+      "isAscended": false,
+      "rarity": 1,
+      "prestigeLevel": 0,
+      "level": 1,
+      "experiencePoints": 1,
+      "dailyQuestsUsed": 1,
+      "remainingQuests": 19,
+      "skills": [
+        {
+          "methodName": "apply_skill_Overhand_Chop",
+          "slug": "overhand-chop",
+          "name": "Overhand Chop",
+          "description": "Deals 1D12 damage.",
+          "skillClass": "Warrior",
+          "requiredSkillPoints": 2,
+          "allocatedSkillPoints": 6,
+          "skillUseInstance": [
+            {
+              "id": "1",
+              "alreadyUsed": false
+            }
+          ],
+          "skillsCalculatedStats": {
+            "TotalUses": 0,
+            "CurrentUsesRemaining": 0
+          },
+          "id": "1",
+          "type": "LearnedHeroSkill"
+        },
+        {
+          "methodName": "apply_skill_Grapple",
+          "slug": "grapple",
+          "name": "Grapple",
+          "description": "Deals 1D6 damage and reduces parry for both Monster and Player by 80% for 2 rounds.",
+          "skillClass": "Warrior",
+          "requiredSkillPoints": 4,
+          "allocatedSkillPoints": 8,
+          "skillUseInstance": [
+            {
+              "id": "2",
+              "alreadyUsed": false
+            }
+          ],
+          "skillsCalculatedStats": {
+            "TotalUses": 0,
+            "CurrentUsesRemaining": 0
+          },
+          "id": "2",
+          "type": "LearnedHeroSkill"
+        }
+      ],
+      "zoneBackgroundType": 0,
+      "unsecuredDCXValue": {
+        "amount": 8,
+        "withdrawlOrderId": null
+      },
+      "generation": 0,
+      "baseChanceToHit": 40,
+      "baseHitPoints": 10,
+      "isHearthstoneAvailable": false,
+      "maxExperiencePoints": 20,
+      "maxDailyQuests": 20,
+      "learnedSkillCapacity": 6,
+      "difficultyToHit": 20,
+      "gold": 0,
+      "inventory": [
+        {
+          "id": "5",
+          "nftTokenId": 0,
+          "itemIndex": null,
+          "rarity": 0,
+          "armorMitigation": 30,
+          "parryRate": null,
+          "dodgeRate": 1,
+          "criticalHitRate": null,
+          "bonusDamage": null,
+          "affectedAttributes": {
+            "Strength": 1,
+            "Agility": 0,
+            "Wisdom": 0,
+            "Charisma": 0,
+            "Quickness": 0,
+            "HitPoints": 10,
+            "DifficultyToHit": 0,
+            "ChanceToHit": 0
+          },
+          "slug": "cloth-robes",
+          "name": "Cloth Robes",
+          "itemDropSound": "cloth-robes",
+          "slot": 1,
+          "dieDamage": [],
+          "purchasePrice": null,
+          "sellPrice": 1,
+          "heroStatComplianceDictionary": {},
+          "allowedHeroClassList": [
+            "Warrior"
+          ],
+          "type": "ItemDto"
+        },
+        {
+          "skill": {
+            "dcxToIdentify": 0.21,
+            "id": "",
+            "type": "UnidentifiedHeroSkill"
+          },
+          "id": "948187c8-d792-4c29-b2d3-af6f7ebd302d",
+          "itemIndex": null,
+          "rarity": 5,
+          "armorMitigation": 0,
+          "parryRate": 0,
+          "dodgeRate": 0,
+          "criticalHitRate": 0,
+          "bonusDamage": 0,
+          "affectedAttributes": {},
+          "slug": "",
+          "name": "",
+          "itemDropSound": "leather-boots",
+          "slot": 8,
+          "dieDamage": [],
+          "purchasePrice": null,
+          "sellPrice": null,
+          "heroStatComplianceDictionary": {},
+          "allowedHeroClassList": [],
+          "type": "SkillItem"
+        },
+        {
+          "id": "6",
+          "nftTokenId": 0,
+          "itemIndex": null,
+          "rarity": 0,
+          "armorMitigation": null,
+          "parryRate": 0,
+          "dodgeRate": null,
+          "criticalHitRate": null,
+          "bonusDamage": null,
+          "affectedAttributes": {
+            "Strength": 0,
+            "Agility": 0,
+            "Wisdom": 0,
+            "Charisma": 0,
+            "Quickness": 0,
+            "HitPoints": 0,
+            "DifficultyToHit": 0,
+            "ChanceToHit": 0
+          },
+          "slug": "basic-greatsword",
+          "name": "Basic Greatsword",
+          "itemDropSound": "metal-weapon",
+          "slot": 6,
+          "dieDamage": [
+            {
+              "Sides": 6
+            }
+          ],
+          "purchasePrice": null,
+          "sellPrice": 1,
+          "heroStatComplianceDictionary": {},
+          "allowedHeroClassList": [
+            "Warrior"
+          ],
+          "type": "ItemDto"
+        }
+      ],
+      "equippedItems": [],
+      "calculatedStats": {
+        "strength": 10,
+        "agility": 5,
+        "wisdom": 6,
+        "quickness": 6,
+        "charisma": 5,
+        "chanceToCrit": 50,
+        "chanceToParry": 30,
+        "chanceToHit": 40,
+        "difficultyToHit": 20,
+        "chanceToDodge": 32,
+        "armorMitigation": 100,
+        "itemBonusDamage": 0,
+        "statsBonusDamage": 3,
+        "damageRange": {
+          "lower": 3,
+          "upper": 3
+        }
+      },
+      "alteredStats": [],
+      "heroLevelUpProps": {},
+      "strength": 10,
+      "agility": 5,
+      "wisdom": 6,
+      "quickness": 6,
+      "charisma": 5
+    },
+    "CurrentEncounters": [
+      {
+        "Monster": {
+          "Id": "9a820ae1-f93e-48be-8695-70525a851014",
+          "HitPoints": 0,
+          "MaxHitPoints": 27,
+          "ChanceToHit": 103,
+          "DifficultyToHit": 314,
+          "Power": 4,
+          "ArmorMitigation": 190,
+          "BonusDamage": 0,
+          "ChanceToDodge": 254,
+          "CritChance": 105,
+          "ParryChance": 117,
+          "Charisma": 10,
+          "Quickness": 10,
+          "Level": 13,
+          "ChanceOfUsingSpecialAbility": 538,
+          "PersonalityType": 0,
+          "WhichRoundMonsterUsedSpecialAbility": null,
+          "AlteredStats": [],
+          "Name": "Mighty Stag",
+          "MonsterSlug": "stag",
+          "Description": "A mighty stag stands before you, and you feel the absurd urge to kneel before such a princely animal.",
+          "MonsterItems": [
+            "Sword",
+            "Shield"
+          ],
+          "AppearChance": 10,
+          "DieDamage": [
+            {
+              "Sides": 4
+            }
+          ],
+          "LocationTile": 1,
+          "SpecialAbility": {
+            "Id": 10,
+            "SoundSlug": "majesty",
+            "Name": "Majesty",
+            "Description": "Increase monster difficulty to hit by 10% until the end of combat.",
+            "CanUseSpecialAbilityMoreThanOnce": false,
+            "Affects": [
+              {
+                "AffectType": 0,
+                "StatName": 0,
+                "FriendlyStatName": "Difficulty to hit",
+                "Description": "Increase monster difficulty to hit",
+                "AffectAmount": 100,
+                "Duration": null
+              }
+            ]
+          }
+        },
+        "CurrentRound": 0,
+        "is2ndTurn": false,
+        "isHerosTurn": false,
+        "isHeroAbleToFlee": false,
+        "isCharismaOpportunityAvailable": false,
+        "charismaOpportunityResultType": null,
+        "isCombatActionTaken": true,
+        "heroAttackResult": {
+          "IsHit": false,
+          "TotalDamage": 0,
+          "BonusDamage": 0,
+          "CritDamage": 0,
+          "ArmorMitigation": 0,
+          "ParryMitigation": 0,
+          "StatusEffectBonus": 0,
+          "StatusEffectMitigation": 0,
+          "Dice": []
+        },
+        "monsterAttackResult": {
+          "IsHit": false,
+          "TotalDamage": 0,
+          "BonusDamage": 0,
+          "CritDamage": 0,
+          "ArmorMitigation": 0,
+          "ParryMitigation": 0,
+          "StatusEffectBonus": 0,
+          "StatusEffectMitigation": 0,
+          "Dice": []
+        },
+        "isMonsterDead": true,
+        "isHeroDead": false,
+        "LingeringSkillEffects": [],
+        "Initiative": 0,
+        "loot": {
+          "Id": 0,
+          "Items": [
+            {
+              "id": "beed79bb-7e76-4fd5-a728-c261c923a15f",
+              "nftTokenId": 0,
+              "itemIndex": null,
+              "rarity": 5,
+              "armorMitigation": null,
+              "parryRate": null,
+              "dodgeRate": null,
+              "criticalHitRate": null,
+              "bonusDamage": null,
+              "affectedAttributes": {},
+              "slug": "shard",
+              "name": "",
+              "itemDropSound": "shard",
+              "slot": 7,
+              "dieDamage": [],
+              "purchasePrice": null,
+              "sellPrice": null,
+              "heroStatComplianceDictionary": {},
+              "allowedHeroClassList": [],
+              "type": "ItemDto"
+            }
+          ],
+          "Dcx": 8
+        },
+        "Slug": null,
+        "id": "f08b5054-14b7-458b-b5a5-1cb0e2e5d722",
+        "type": "CombatEncounter"
+      }
+    ],
+    "HighestZoneVisited": 1,
+    "itemsToMoveToStash": []
+  }
