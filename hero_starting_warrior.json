@@ -69,7 +69,7 @@
 			"withdrawlOrderId": null
 		},
 		"generation": 0,
-		"baseChanceToHit": 40,
+		"baseChanceToHit": 140,
 		"baseHitPoints": 50,
 		"isHearthstoneAvailable": false,
 		"maxExperiencePoints": 20,
