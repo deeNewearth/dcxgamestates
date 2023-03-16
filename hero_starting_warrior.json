@@ -148,32 +148,6 @@
 				],
 				"type": "ItemDto"
 			},
-			{
-			  "skill": {
-				"dcxToIdentify": 10.0,
-				"id": "",
-				"type": "UnidentifiedHeroSkill"
-			  },
-			  "id": "618d376c-3ae5-45c0-98db-6f9308228b87",
-			  "nftTokenId": 0,
-			  "itemIndex": null,
-			  "rarity": 5,
-			  "armorMitigation": null,
-			  "parryRate": null,
-			  "dodgeRate": null,
-			  "criticalHitRate": null,
-			  "bonusDamage": null,
-			  "affectedAttributes": {},
-			  "slug": "skill-second-wind",
-			  "name": "",
-			  "itemDropSound": "",
-			  "slot": "unidentifiedSkill",
-			  "dieDamage": [],
-			  "heroStatComplianceDictionary": {},
-			  "allowedHeroClassList": [],
-			  "imageSlug": null,
-			  "type": "SkillItemTemplate"
-			}
 		],
 		"equippedItems": [],
 		"calculatedStats": {
