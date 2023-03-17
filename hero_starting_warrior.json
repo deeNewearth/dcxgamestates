@@ -70,7 +70,7 @@
 		},
 		"generation": 0,
 		"baseChanceToHit": 140,
-		"baseHitPoints": 50,
+		"baseHitPoints": 2,
 		"isHearthstoneAvailable": false,
 		"maxExperiencePoints": 20,
 		"maxDailyQuests": 20,
