@@ -7,7 +7,7 @@
 		"name": "Aardvas",
 		"heroClass": "Warrior",
 		"gender": "Male",
-		"remainingHitPointsPercentage": 90.0,
+		"remainingHitPointsPercentage": 100.0,
 		"totalHitPoints": 50,
 		"remainingHitPoints": 50.0,
 		"baseSkillPoints": 12,
@@ -18,7 +18,7 @@
 		"level": 1,
 		"experiencePoints": 20,
 		"dailyQuestsUsed": 0,
-		"remainingQuests": 20,
+		"remainingQuests": 100,
 		"skills": [
 			{
 				"methodName": "apply_skill_Overhand_Chop",
@@ -70,7 +70,7 @@
 		},
 		"generation": 0,
 		"baseChanceToHit": 140,
-		"baseHitPoints": 2,
+		"baseHitPoints": 35,
 		"isHearthstoneAvailable": false,
 		"maxExperiencePoints": 20,
 		"maxDailyQuests": 20,
@@ -147,7 +147,7 @@
 					"Warrior"
 				],
 				"type": "ItemDto"
-			},
+			}
 		],
 		"equippedItems": [],
 		"calculatedStats": {
