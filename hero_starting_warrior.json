@@ -69,13 +69,13 @@
 			"withdrawlOrderId": null
 		},
 		"generation": 0,
-		"baseChanceToHit": 140,
+		"baseChanceToHit": 0,
 		"baseHitPoints": 35,
 		"isHearthstoneAvailable": false,
 		"maxExperiencePoints": 20,
 		"maxDailyQuests": 20,
 		"learnedSkillCapacity": 6,
-		"difficultyToHit": 20,
+		"difficultyToHit": 25,
 		"gold": 0,
 		"inventory": [
 			{
