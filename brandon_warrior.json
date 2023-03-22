@@ -16,9 +16,9 @@
     "rarity": 2,
     "prestigeLevel": 0,
     "level": 1,
-    "experiencePoints": 2,
-    "dailyQuestsUsed": 2,
-    "remainingQuests": 18,
+    "experiencePoints": 20,
+    "dailyQuestsUsed": 0,
+    "remainingQuests": 20,
     "skills": [
       {
         "methodName": "apply_skill_Overhand_Chop",
