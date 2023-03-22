@@ -1,0 +1,183 @@
+{
+	"HeroId": 21,
+	"CurrentTile": 2,
+	"Hero": {
+		"id": 21,
+		"playerId": "",
+		"name": "jenny",
+		"heroClass": "Warrior",
+		"gender": "Female",
+		"remainingHitPointsPercentage": 100.0,
+		"totalHitPoints": 17.0,
+		"remainingHitPoints": 17.0,
+		"baseSkillPoints": 12,
+		"remainingSkillPoints": 12,
+		"isAscended": false,
+		"rarity": 4,
+		"prestigeLevel": 0,
+		"level": 1,
+		"experiencePoints": 0,
+		"dailyQuestsUsed": 0,
+		"remainingQuests": 15,
+		"skills": [],
+		"zoneBackgroundType": 0,
+		"unsecuredDCXValue": {
+			"amount": 0.0,
+			"withdrawlOrderId": null
+		},
+		"generation": 0,
+		"baseChanceToHit": 0,
+		"baseHitPoints": 17,
+		"isHearthstoneAvailable": true,
+		"maxExperiencePoints": 20,
+		"maxDailyQuests": 15,
+		"learnedSkillCapacity": 6,
+		"difficultyToHit": 2500,
+		"inventory": [],
+		"equippedItems": [
+			{
+				"id": "ebb70bd1-547e-4570-ab43-55957b273258",
+				"nftTokenId": 0,
+				"itemIndex": null,
+				"rarity": "Uncommon",
+				"armorMitigation": 0,
+				"parryRate": 0,
+				"dodgeRate": 0,
+				"criticalHitRate": 0,
+				"bonusDamage": 0,
+				"affectedAttributes": {
+					"Charisma": 0
+				},
+				"slug": "dull-shortsword",
+				"name": "Dull Shortsword",
+				"itemDropSound": "metal-weapon",
+				"slot": "mainHand",
+				"dieDamage": [
+					{
+						"Sides": 4
+					}
+				],
+				"heroStatComplianceDictionary": {},
+				"allowedHeroClassList": [
+					"Warrior",
+					"Ranger",
+					"Mage"
+				],
+				"imageSlug": "simple-shortsword",
+				"type": "ItemDto"
+			},
+			{
+				"id": "bf602626-85ec-4234-9d8e-26050ce01a49",
+				"nftTokenId": 0,
+				"itemIndex": null,
+				"rarity": "Common",
+				"armorMitigation": 5,
+				"parryRate": 0,
+				"dodgeRate": 0,
+				"criticalHitRate": 0,
+				"bonusDamage": 0,
+				"affectedAttributes": {
+					"HitPoints": 0
+				},
+				"slug": "hand-me-down-leathers",
+				"name": "Hand-me-down Leathers",
+				"itemDropSound": "leathers",
+				"slot": "chest",
+				"dieDamage": [],
+				"heroStatComplianceDictionary": {},
+				"allowedHeroClassList": [
+					"Warrior",
+					"Ranger",
+					"Mage"
+				],
+				"imageSlug": "broken-in-leathers",
+				"type": "ItemDto"
+			},
+			{
+				"id": "7b608ef4-889f-414d-9683-990fe818e696",
+				"nftTokenId": 0,
+				"itemIndex": null,
+				"rarity": "Common",
+				"armorMitigation": 2,
+				"parryRate": 0,
+				"dodgeRate": 0,
+				"criticalHitRate": 0,
+				"bonusDamage": 0,
+				"affectedAttributes": {
+					"Wisdom": 0
+				},
+				"slug": "ill-fitted-sandals",
+				"name": "Ill-Fitted Sandals",
+				"itemDropSound": "sandals",
+				"slot": "feet",
+				"dieDamage": [],
+				"heroStatComplianceDictionary": {},
+				"allowedHeroClassList": [
+					"Warrior",
+					"Ranger",
+					"Mage"
+				],
+				"imageSlug": "rough-slippers",
+				"type": "ItemDto"
+			},
+			{
+				"id": "3399504e-65e6-4ac7-aa21-d649fdb1e2c4",
+				"nftTokenId": 0,
+				"itemIndex": null,
+				"rarity": "Rare",
+				"armorMitigation": 3,
+				"parryRate": 0,
+				"dodgeRate": 0,
+				"criticalHitRate": 0,
+				"bonusDamage": 0,
+				"affectedAttributes": {
+					"Charisma": 0
+				},
+				"slug": "unironically-hideous-cap",
+				"name": "Unironically Hideous Cap",
+				"itemDropSound": "cloth-head",
+				"slot": "head",
+				"dieDamage": [],
+				"heroStatComplianceDictionary": {},
+				"allowedHeroClassList": [
+					"Warrior",
+					"Ranger",
+					"Mage"
+				],
+				"imageSlug": "leather-cap",
+				"type": "ItemDto"
+			}
+		],
+		"calculatedStats": {
+			"strength": 12,
+			"agility": 10,
+			"wisdom": 9,
+			"quickness": 4,
+			"charisma": 7,
+			"chanceToCrit": 1000,
+			"chanceToParry": 500,
+			"chanceToHit": 0,
+			"difficultyToHit": 2500,
+			"chanceToDodge": 600,
+			"armorMitigation": 1210,
+			"itemBonusDamage": 0,
+			"statsBonusDamage": 4,
+			"damageRange": {
+				"lower": 5,
+				"upper": 8
+			}
+		},
+		"alteredStats": [],
+		"heroLevelUpProps": {},
+		"strength": 12,
+		"agility": 10,
+		"wisdom": 9,
+		"quickness": 4,
+		"charisma": 7
+	},
+	"CurrentEncounters": [],
+	"HighestZoneVisited": "wildPrairie",
+	"itemsToMoveToStash": [],
+	"inactiveDailyTiles": [],
+	"inactiveBossTiles": []
+}
