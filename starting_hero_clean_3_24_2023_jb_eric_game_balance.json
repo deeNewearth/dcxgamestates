@@ -18,7 +18,7 @@
 		"level": 1,
 		"experiencePoints": 20,
 		"dailyQuestsUsed": 0,
-		"remainingQuests": 15,
+		"remainingQuests": 200,
 		"skills": [
 			{
 				"methodName": "apply_skill_firebolt",
@@ -63,7 +63,7 @@
 		"baseHitPoints": 40,
 		"isHearthstoneAvailable": true,
 		"maxExperiencePoints": 20,
-		"maxDailyQuests": 15,
+		"maxDailyQuests": 200,
 		"learnedSkillCapacity": 6,
 		"difficultyToHit": 2500,
 		"inventory": [
