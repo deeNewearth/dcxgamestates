@@ -17,11 +17,11 @@
     "prestigeLevel": 0,
     "level": 1,
     "experiencePoints": 20,
-    "dailyQuestsUsed": 11,
-    "remainingQuests": 9,
+    "dailyQuestsUsed": 0,
+    "remainingQuests": 999,
     "skills": [
       {
-        "methodName": "apply_skill_Overhand_Chop",
+        "methodName": "apply_skill_overhand_chop",
         "slug": "skill-overhand-chop",
         "name": "Overhand Chop",
         "description": "Deals 1D12 damage.",
@@ -37,7 +37,7 @@
         "type": "LearnedHeroSkill"
       },
       {
-        "methodName": "apply_skill_Grapple",
+        "methodName": "apply_skill_grapple",
         "slug": "skill-grapple",
         "name": "Grapple",
         "description": "Deals 1D6 damage and reduces parry for both Monster and Player by 80% for 2 rounds.",
