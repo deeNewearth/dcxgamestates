@@ -1,0 +1,11 @@
+{
+  "seasonId": 44,
+  "seasonName": "Blitz Season",
+  "registrationOpenDate": "2023-05-10T02:02:10.181Z",
+  "registrationCloseDate": "2023-05-25T02:02:10.181Z",
+  "seasonOpenDate": "2023-05-10T02:02:10.181Z",
+  "seasonCloseDate": "2023-05-29T02:02:10.181Z",
+  "dcxCostToRegister": 0.05,
+  "isRegistrationOpen": true,
+  "isGamePlayOpen": true
+}
