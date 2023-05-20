@@ -1,7 +1,11 @@
 {
 "maxHeros":3,
 "onlyOne":"true",
-"dcxCost":0.015,
+"mintPrice":{
+  "basePrice":0.015,
+  "boostedPrice":0.02,
+  "maxQuantity":3,
+  },
 "whiteList":[
   "0xead24fe3541af389835e5440422dee6a0af43299",
   "0x25250176f10c989a774e294530e7213183e4cd1c",
