@@ -1,6 +1,6 @@
 {
     "HeroId": 4,
-    "CurrentTile": 0,
+    "CurrentTile": 21,
     "Hero": {
         "id": 4,
         "playerId": "",
@@ -9,15 +9,15 @@
         "heroClass": "Mage",
         "gender": "Female",
         "remainingHitPointsPercentage": 100.0,
-        "totalHitPoints": 75.0,
-        "remainingHitPoints": 75.0,
+        "totalHitPoints": 777.0,
+        "remainingHitPoints": 777.0,
         "baseSkillPoints": 12,
         "usedUpSkillPoints": 12,
         "isAscended": false,
         "rarity": 5,
         "prestigeLevel": 0,
         "level": 1,
-        "experiencePoints": 4,
+        "experiencePoints": 7,
         "maxDailyQuests": 15,
         "dailyQuestsUsed": 0,
         "extraDailyQuestGiven": 0,
@@ -114,7 +114,7 @@
         },
         "generation": 0,
         "baseChanceToHit": 0,
-        "baseHitPoints": 75,
+        "baseHitPoints": 77,
         "isHearthstoneAvailable": true,
         "maxExperiencePoints": 7,
         "learnedSkillCapacity": 6,
@@ -685,10 +685,11 @@
                 "nftTokenId": 0,
                 "itemIndex": null,
                 "rarity": "Common",
-                "bonusDamage": 0,
+                "bonusDamage": 100,
                 "affectedAttributes": {
                     "ArmorMitigationAmount": 0,
-                    "HitPoints": 700
+                    "HitPoints": 700,
+                    "ChanceToHit": 5000
                 },
                 "slug": "wand-of-force",
                 "name": "Wand of Force",
@@ -712,7 +713,7 @@
                 "nftTokenId": 0,
                 "itemIndex": null,
                 "rarity": "Common",
-                "bonusDamage": 100,
+                "bonusDamage": 0,
                 "affectedAttributes": {
                     "ArmorMitigation": 600,
                     "ArmorMitigationAmount": 1,
@@ -798,11 +799,11 @@
             "chanceToDodge": 380,
             "armorMitigation": 750,
             "armorMitigationAmount": 3,
-            "itemBonusDamage": 0,
+            "itemBonusDamage": 100,
             "statsBonusDamage": 2,
             "damageRange": {
-                "lower": 3,
-                "upper": 8
+                "lower": 103,
+                "upper": 122
             }
         },
         "heroLevelUpProps": {},
@@ -813,14 +814,18 @@
         "charisma": 5
     },
     "CurrentEncounters": [],
-    "HighestZoneVisited": "wildPrairie",
+    "HighestZoneVisited": "darkTower",
     "itemsToMoveToStash": [],
     "inactiveDailyTiles": [],
-    "inactiveBossTiles": [],
-    "lastDailyResetAt": "2023-05-21T06:49:20.539Z",
+    "inactiveBossTiles": [
+        14,
+        19,
+        24
+    ],
+    "lastDailyResetAt": "2023-05-22T00:21:32.583Z",
     "leaderStatus": {
-        "furthestZone": "wildPrairie",
-        "totalQuestsUsed": 8,
+        "furthestZone": "darkTower",
+        "totalQuestsUsed": 32,
         "didBeatBoss": false
     }
 }
