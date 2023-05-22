@@ -1,0 +1,826 @@
+{
+    "HeroId": 4,
+    "CurrentTile": 0,
+    "Hero": {
+        "id": 4,
+        "playerId": "",
+        "seasonId": 1,
+        "name": "Barnett",
+        "heroClass": "Mage",
+        "gender": "Female",
+        "remainingHitPointsPercentage": 100.0,
+        "totalHitPoints": 75.0,
+        "remainingHitPoints": 75.0,
+        "baseSkillPoints": 12,
+        "usedUpSkillPoints": 12,
+        "isAscended": false,
+        "rarity": 5,
+        "prestigeLevel": 0,
+        "level": 1,
+        "experiencePoints": 4,
+        "maxDailyQuests": 15,
+        "dailyQuestsUsed": 0,
+        "extraDailyQuestGiven": 0,
+        "remainingQuests": 15,
+        "skills": [
+            {
+                "methodName": "apply_skill_firebolt",
+                "slug": "skill-firebolt",
+                "name": "Firebolt",
+                "description": "Deals 1D8 damage, and deals an additional 1D4-1 damage per round for the next 3 rounds.",
+                "skillClass": "Mage",
+                "requiredSkillPoints": 3,
+                "allocatedSkillPoints": 0,
+                "skillUseInstance": [
+                    {
+                        "id": "5bc100f4-bbba-4689-a535-2060c177a2d6",
+                        "alreadyUsed": false
+                    }
+                ],
+                "skillsCalculatedStats": {
+                    "TotalUses": 0,
+                    "CurrentUsesRemaining": 0
+                },
+                "levelRequirement": 0,
+                "id": "ab45229e-106b-4e18-a79e-5ebbfd9aaf30",
+                "type": "LearnedHeroSkill"
+            },
+            {
+                "methodName": "apply_skill_ray_of_frost",
+                "slug": "skill-ray-of-frost",
+                "name": "Ray of Frost",
+                "description": "Deals 1D4+1 damge and lowers monster DTH by 15 for 2 rounds.",
+                "skillClass": "Mage",
+                "requiredSkillPoints": 4,
+                "allocatedSkillPoints": 0,
+                "skillUseInstance": [],
+                "skillsCalculatedStats": {
+                    "TotalUses": 0,
+                    "CurrentUsesRemaining": 0
+                },
+                "levelRequirement": 0,
+                "id": "c8c322ff-d0c4-43e2-b27c-2f88a5692b3b",
+                "type": "LearnedHeroSkill"
+            },
+            {
+                "methodName": "apply_skill_ice_tomb",
+                "slug": "skill-ice-tomb",
+                "name": "Ice Tomb",
+                "description": "Deals 3D4+3 damage and lowers Monster Armor Mitigation Chance by 30% for the rest of combat",
+                "skillClass": "Mage",
+                "requiredSkillPoints": 5,
+                "allocatedSkillPoints": 0,
+                "skillUseInstance": [
+                    {
+                        "id": "bc2b60e2-bdc7-4f62-a8de-82abbd955002",
+                        "alreadyUsed": false
+                    }
+                ],
+                "skillsCalculatedStats": {
+                    "TotalUses": 0,
+                    "CurrentUsesRemaining": 0
+                },
+                "levelRequirement": 1,
+                "id": "d7a6ea47-6345-4293-bba7-9511ee76f6bf",
+                "type": "LearnedHeroSkill"
+            },
+            {
+                "methodName": "apply_skill_fireball",
+                "slug": "skill-fireball",
+                "name": "Fireball",
+                "description": "Deals 2D8 damage, and deals an additional 1D6 damage per round for the next 4 rounds.",
+                "skillClass": "Mage",
+                "requiredSkillPoints": 4,
+                "allocatedSkillPoints": 0,
+                "skillUseInstance": [
+                    {
+                        "id": "234a9051-09c3-4371-9afe-afcbb6211186",
+                        "alreadyUsed": false
+                    }
+                ],
+                "skillsCalculatedStats": {
+                    "TotalUses": 0,
+                    "CurrentUsesRemaining": 0
+                },
+                "levelRequirement": 1,
+                "id": "3fa96dab-365c-47ff-8024-665ae7808e79",
+                "type": "LearnedHeroSkill"
+            }
+        ],
+        "zoneBackgroundType": 0,
+        "unsecuredDCXValue": {
+            "amount": 0.0,
+            "withdrawlOrderId": null
+        },
+        "generation": 0,
+        "baseChanceToHit": 0,
+        "baseHitPoints": 75,
+        "isHearthstoneAvailable": true,
+        "maxExperiencePoints": 7,
+        "learnedSkillCapacity": 6,
+        "difficultyToHit": 2500,
+        "inventory": [
+            {
+                "skill": {
+                    "dcxToIdentify": 10.0,
+                    "id": "",
+                    "type": "UnidentifiedHeroSkill"
+                },
+                "id": "8bdfbc09-8f58-4d32-b346-93dd762d5876",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Unknown",
+                "bonusDamage": null,
+                "affectedAttributes": {},
+                "slug": "",
+                "name": "",
+                "itemDropSound": "",
+                "slot": "unidentifiedSkill",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [],
+                "imageSlug": null,
+                "levelRequirement": 0,
+                "type": "SkillItem"
+            },
+            {
+                "id": "7467c888-29f6-4507-bd33-c6fecd7abba9",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "HitPoints": 0
+                },
+                "slug": "yew-crossbow",
+                "name": "Yew Crossbow",
+                "itemDropSound": "crossbow",
+                "slot": "twoHand",
+                "dieDamage": [
+                    {
+                        "Sides": 10
+                    }
+                ],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Ranger"
+                ],
+                "imageSlug": "yew-crossbow",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "id": "9c487956-2c9c-4c0d-a0e0-3f301881181b",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 704,
+                    "ArmorMitigationAmount": 2,
+                    "Charisma": 1,
+                    "Quickness": 0
+                },
+                "slug": "very-fine-hat",
+                "name": "Very Fine Hat",
+                "itemDropSound": "cloth-head",
+                "slot": "head",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "very-fine-hat",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "id": "30627b88-9635-4073-a9dc-bd4f421faf29",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 494,
+                    "ArmorMitigationAmount": 1,
+                    "Charisma": 0,
+                    "ParryRate": 0
+                },
+                "slug": "rough-slippers",
+                "name": "Rough Slippers",
+                "itemDropSound": "sandals",
+                "slot": "feet",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "rough-slippers",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "id": "744ef572-ad23-4a7d-a3a0-e9bfee894935",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 383,
+                    "ArmorMitigationAmount": 3,
+                    "Strength": 2,
+                    "HitPoints": 0,
+                    "Charisma": 0
+                },
+                "slug": "strong-guards-helm",
+                "name": "Strong Guard's Helm",
+                "itemDropSound": "metal-helm",
+                "slot": "head",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "strong-guards-helm",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "id": "79dd28b1-ab18-43d3-a622-609edc076036",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ParryRate": 392,
+                    "DodgeRate": 176,
+                    "CriticalHitRate": 373,
+                    "HitPoints": 1,
+                    "Strength": 2,
+                    "Agility": 1,
+                    "Wisdom": 1
+                },
+                "slug": "stubborn-iron-ring",
+                "name": "Stubborn Iron Ring",
+                "itemDropSound": "ring",
+                "slot": "ring",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "stubborn-iron-ring",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "id": "2bd95ac0-195b-4a8f-8bf7-57ec0964ab40",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ParryRate": 439,
+                    "DodgeRate": 215,
+                    "CriticalHitRate": 364,
+                    "Agility": 2,
+                    "HitPoints": 3,
+                    "ArmorMitigation": 0
+                },
+                "slug": "dexterous-commoners-band",
+                "name": "Dexterous Commoner's Band",
+                "itemDropSound": "ring",
+                "slot": "ring",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "dexterous-commoners-band",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "skill": {
+                    "dcxToIdentify": 10.0,
+                    "id": "",
+                    "type": "UnidentifiedHeroSkill"
+                },
+                "id": "eaa63ad1-fe0f-46eb-a5b9-aa10fc915a32",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Unknown",
+                "bonusDamage": null,
+                "affectedAttributes": {},
+                "slug": "",
+                "name": "",
+                "itemDropSound": "",
+                "slot": "unidentifiedSkill",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [],
+                "imageSlug": null,
+                "levelRequirement": 0,
+                "type": "SkillItem"
+            },
+            {
+                "skill": {
+                    "dcxToIdentify": 10.0,
+                    "id": "",
+                    "type": "UnidentifiedHeroSkill"
+                },
+                "id": "58f70965-5964-4413-80a0-095fc390210a",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Unknown",
+                "bonusDamage": null,
+                "affectedAttributes": {},
+                "slug": "",
+                "name": "",
+                "itemDropSound": "",
+                "slot": "unidentifiedSkill",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [],
+                "imageSlug": null,
+                "levelRequirement": 0,
+                "type": "SkillItem"
+            },
+            {
+                "skill": {
+                    "dcxToIdentify": 10.0,
+                    "id": "",
+                    "type": "UnidentifiedHeroSkill"
+                },
+                "id": "26bdea92-d92b-456b-8ae1-177fdfad8866",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Unknown",
+                "bonusDamage": null,
+                "affectedAttributes": {},
+                "slug": "",
+                "name": "",
+                "itemDropSound": "",
+                "slot": "unidentifiedSkill",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [],
+                "imageSlug": null,
+                "levelRequirement": 0,
+                "type": "SkillItem"
+            },
+            {
+                "skill": {
+                    "dcxToIdentify": 10.0,
+                    "id": "",
+                    "type": "UnidentifiedHeroSkill"
+                },
+                "id": "0435668f-2eb8-47e1-ad12-5b89c82dbca6",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Unknown",
+                "bonusDamage": null,
+                "affectedAttributes": {},
+                "slug": "",
+                "name": "",
+                "itemDropSound": "",
+                "slot": "unidentifiedSkill",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [],
+                "imageSlug": null,
+                "levelRequirement": 0,
+                "type": "SkillItem"
+            },
+            {
+                "id": "a607d3ca-902d-4eb6-9bd9-e1826603d26e",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Unknown",
+                "bonusDamage": null,
+                "affectedAttributes": {},
+                "slug": "shard",
+                "name": "",
+                "itemDropSound": "shard",
+                "slot": "shard",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [],
+                "imageSlug": null,
+                "levelRequirement": 0,
+                "type": "ItemDto"
+            },
+            {
+                "id": "05e86eb4-a83b-464c-b0ae-1761d008917c",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 343,
+                    "ArmorMitigationAmount": 3,
+                    "Strength": 1,
+                    "HitPoints": 1,
+                    "DodgeRate": 0
+                },
+                "slug": "strong-guards-helm",
+                "name": "Strong Guard's Helm",
+                "itemDropSound": "metal-helm",
+                "slot": "head",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "strong-guards-helm",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "id": "3300f075-1db9-42df-a3cc-b75f61c3ec4b",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Uncommon",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ParryRate": 342,
+                    "DodgeRate": 175,
+                    "CriticalHitRate": 324,
+                    "HitPoints": 0,
+                    "Strength": 1,
+                    "Agility": 0,
+                    "Wisdom": 0,
+                    "ArmorMitigation": 175
+                },
+                "slug": "stubborn-iron-ring",
+                "name": "Stubborn Iron Ring",
+                "itemDropSound": "ring",
+                "slot": "ring",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "stubborn-iron-ring",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "skill": {
+                    "dcxToIdentify": 10.0,
+                    "id": "",
+                    "type": "UnidentifiedHeroSkill"
+                },
+                "id": "e0d2beb6-4131-4cfd-b791-c18f4632f4d1",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Unknown",
+                "bonusDamage": null,
+                "affectedAttributes": {},
+                "slug": "",
+                "name": "",
+                "itemDropSound": "",
+                "slot": "unidentifiedSkill",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [],
+                "imageSlug": null,
+                "levelRequirement": 0,
+                "type": "SkillItem"
+            },
+            {
+                "id": "76f24f31-ab7f-4efc-b6e6-f7a54caec327",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Unknown",
+                "bonusDamage": null,
+                "affectedAttributes": {},
+                "slug": "shard",
+                "name": "",
+                "itemDropSound": "shard",
+                "slot": "shard",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [],
+                "imageSlug": null,
+                "levelRequirement": 0,
+                "type": "ItemDto"
+            },
+            {
+                "skill": {
+                    "dcxToIdentify": 10.0,
+                    "id": "",
+                    "type": "UnidentifiedHeroSkill"
+                },
+                "id": "8c4172d7-b33b-4b69-8ec1-c79f3c9d6ee1",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Unknown",
+                "bonusDamage": null,
+                "affectedAttributes": {},
+                "slug": "",
+                "name": "",
+                "itemDropSound": "",
+                "slot": "unidentifiedSkill",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [],
+                "imageSlug": null,
+                "levelRequirement": 0,
+                "type": "SkillItem"
+            },
+            {
+                "id": "4dfcc050-8771-4ac9-befc-665f2ca876a8",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "DodgeRate": 0
+                },
+                "slug": "yew-crossbow",
+                "name": "Yew Crossbow",
+                "itemDropSound": "crossbow",
+                "slot": "twoHand",
+                "dieDamage": [
+                    {
+                        "Sides": 10
+                    }
+                ],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Ranger"
+                ],
+                "imageSlug": "yew-crossbow",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "id": "d60692d4-806a-4e03-85b9-f3044a506c22",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Rare",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 573,
+                    "ArmorMitigationAmount": 1,
+                    "Charisma": 0,
+                    "Agility": 2
+                },
+                "slug": "rough-slippers",
+                "name": "Rough Slippers",
+                "itemDropSound": "sandals",
+                "slot": "feet",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "rough-slippers",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "id": "599792d8-b1fb-46e2-9a81-2e43da14ccda",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 757,
+                    "ArmorMitigationAmount": 2,
+                    "Charisma": 0
+                },
+                "slug": "very-fine-hat",
+                "name": "Very Fine Hat",
+                "itemDropSound": "cloth-head",
+                "slot": "head",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "very-fine-hat",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "id": "992b931c-4034-45c7-9a00-4673af8709a2",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Uncommon",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ParryRate": 480,
+                    "DodgeRate": 159,
+                    "CriticalHitRate": 261,
+                    "Agility": 2,
+                    "HitPoints": 1,
+                    "ArmorMitigation": 175
+                },
+                "slug": "dexterous-commoners-band",
+                "name": "Dexterous Commoner's Band",
+                "itemDropSound": "ring",
+                "slot": "ring",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "dexterous-commoners-band",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            },
+            {
+                "id": "9171bb49-c8a7-408b-96d5-ea1ab7df89d1",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 1094,
+                    "ArmorMitigationAmount": 2,
+                    "Charisma": 1,
+                    "Wisdom": 0
+                },
+                "slug": "simple-linens",
+                "name": "Simple Linens",
+                "itemDropSound": "cloth-robes",
+                "slot": "chest",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "simple-linens",
+                "levelRequirement": 1,
+                "type": "ItemDto"
+            }
+        ],
+        "equippedItems": [
+            {
+                "id": "bbf994ae-5c54-4da1-9c6b-e1e2c77cca23",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigationAmount": 0,
+                    "HitPoints": 700
+                },
+                "slug": "wand-of-force",
+                "name": "Wand of Force",
+                "itemDropSound": "wand-rod",
+                "slot": "mainHand",
+                "dieDamage": [
+                    {
+                        "Sides": 20
+                    }
+                ],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Mage"
+                ],
+                "imageSlug": "wand-of-force",
+                "levelRequirement": 0,
+                "type": "ItemDto"
+            },
+            {
+                "id": "f0c92cfb-2044-4b60-9bf7-7f642a27bd8e",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 100,
+                "affectedAttributes": {
+                    "ArmorMitigation": 600,
+                    "ArmorMitigationAmount": 1,
+                    "CriticalHitRate": 0
+                },
+                "slug": "hand-me-down-leathers",
+                "name": "Hand me down Leathers",
+                "itemDropSound": "leathers",
+                "slot": "chest",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "broken-in-leathers",
+                "levelRequirement": 0,
+                "type": "ItemDto"
+            },
+            {
+                "id": "41425287-8d57-4023-8f72-f9e771e7269d",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 75,
+                    "ArmorMitigationAmount": 1,
+                    "DodgeRate": 0
+                },
+                "slug": "ill-fitted-sandals",
+                "name": "Ill Fitted Sandals",
+                "itemDropSound": "sandals",
+                "slot": "feet",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "rough-slippers",
+                "levelRequirement": 0,
+                "type": "ItemDto"
+            },
+            {
+                "id": "b99db74b-0dac-4642-8c6f-5d49b3c51e6c",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 75,
+                    "ArmorMitigationAmount": 1
+                },
+                "slug": "unironically-hideous-cap",
+                "name": "Unironically Hideous Cap",
+                "itemDropSound": "cloth-head",
+                "slot": "head",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "leather-cap",
+                "levelRequirement": 0,
+                "type": "ItemDto"
+            }
+        ],
+        "calculatedStats": {
+            "strength": 5,
+            "agility": 7,
+            "wisdom": 14,
+            "quickness": 5,
+            "charisma": 5,
+            "chanceToCrit": 140,
+            "chanceToParry": 100,
+            "chanceToHit": 0,
+            "difficultyToHit": 2500,
+            "chanceToDodge": 380,
+            "armorMitigation": 750,
+            "armorMitigationAmount": 3,
+            "itemBonusDamage": 0,
+            "statsBonusDamage": 2,
+            "damageRange": {
+                "lower": 3,
+                "upper": 8
+            }
+        },
+        "heroLevelUpProps": {},
+        "strength": 5,
+        "agility": 7,
+        "wisdom": 14,
+        "quickness": 5,
+        "charisma": 5
+    },
+    "CurrentEncounters": [],
+    "HighestZoneVisited": "wildPrairie",
+    "itemsToMoveToStash": [],
+    "inactiveDailyTiles": [],
+    "inactiveBossTiles": [],
+    "lastDailyResetAt": "2023-05-21T06:49:20.539Z",
+    "leaderStatus": {
+        "furthestZone": "wildPrairie",
+        "totalQuestsUsed": 8,
+        "didBeatBoss": false
+    }
+}
