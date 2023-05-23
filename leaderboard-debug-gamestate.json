@@ -1,0 +1,218 @@
+{
+    "HeroId": 5,
+    "CurrentTile": 2,
+    "Hero": {
+        "id": 5,
+        "playerId": "",
+        "seasonId": 1,
+        "name": "eric",
+        "heroClass": "Ranger",
+        "gender": "Male",
+        "remainingHitPointsPercentage": 100.0,
+        "totalHitPoints": 75.0,
+        "remainingHitPoints": 75.0,
+        "baseSkillPoints": 12,
+        "usedUpSkillPoints": 0,
+        "isAscended": false,
+        "rarity": 3,
+        "prestigeLevel": 0,
+        "level": 1,
+        "experiencePoints": 0,
+        "maxDailyQuests": 15,
+        "dailyQuestsUsed": 0,
+        "extraDailyQuestGiven": 0,
+        "remainingQuests": 15,
+        "skills": [
+            {
+                "methodName": "apply_skill_barbed_projectile",
+                "slug": "skill-barbed-projectile",
+                "name": "Barbed Projectile",
+                "description": "Deals 1D6 damage and deals an additional 1D4 damage per round for 2 rounds.",
+                "skillClass": "Ranger",
+                "requiredSkillPoints": 3,
+                "allocatedSkillPoints": 0,
+                "skillUseInstance": [],
+                "skillsCalculatedStats": {
+                    "TotalUses": 0,
+                    "CurrentUsesRemaining": 0
+                },
+                "levelRequirement": 0,
+                "id": "0badb512-6fab-46db-afb9-4aafe254478a",
+                "type": "LearnedHeroSkill"
+            },
+            {
+                "methodName": "apply_skill_herbal_knowledge",
+                "slug": "skill-herbal-knowledge",
+                "name": "Herbal Knowledge",
+                "description": "Heals 3HP and gives 20% Dodge for 2 rounds.",
+                "skillClass": "Ranger",
+                "requiredSkillPoints": 4,
+                "allocatedSkillPoints": 0,
+                "skillUseInstance": [],
+                "skillsCalculatedStats": {
+                    "TotalUses": 0,
+                    "CurrentUsesRemaining": 0
+                },
+                "levelRequirement": 0,
+                "id": "5fc95ec9-133a-4710-961c-9a0efeff0428",
+                "type": "LearnedHeroSkill"
+            }
+        ],
+        "zoneBackgroundType": 1,
+        "unsecuredDCXValue": {
+            "amount": 0.0,
+            "withdrawlOrderId": null
+        },
+        "generation": 0,
+        "baseChanceToHit": 0,
+        "baseHitPoints": 75,
+        "isHearthstoneAvailable": true,
+        "maxExperiencePoints": 7,
+        "learnedSkillCapacity": 6,
+        "difficultyToHit": 2500,
+        "inventory": [
+            {
+                "id": "6b61d608-3081-43eb-8faf-97a6f6ddafe6",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "Charisma": 0
+                },
+                "slug": "simple-shortsword",
+                "name": "Simple Shortsword",
+                "itemDropSound": "metal-weapon",
+                "slot": "mainHand",
+                "dieDamage": [
+                    {
+                        "Sides": 6
+                    }
+                ],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Ranger"
+                ],
+                "imageSlug": "simple-shortsword",
+                "levelRequirement": 0,
+                "type": "ItemDto"
+            },
+            {
+                "id": "ce7b7810-2059-42ed-8c0a-e77902c08a7c",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 600,
+                    "ArmorMitigationAmount": 1,
+                    "HitPoints": 0
+                },
+                "slug": "hand-me-down-leathers",
+                "name": "Hand me down Leathers",
+                "itemDropSound": "leathers",
+                "slot": "chest",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "broken-in-leathers",
+                "levelRequirement": 0,
+                "type": "ItemDto"
+            },
+            {
+                "id": "a241e3a9-6d43-4351-9b48-4607986aba13",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Common",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 75,
+                    "ArmorMitigationAmount": 1,
+                    "DodgeRate": 0
+                },
+                "slug": "ill-fitted-sandals",
+                "name": "Ill Fitted Sandals",
+                "itemDropSound": "sandals",
+                "slot": "feet",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "rough-slippers",
+                "levelRequirement": 0,
+                "type": "ItemDto"
+            },
+            {
+                "id": "779ef57a-c1bc-41b0-bc82-a9c26de305f0",
+                "nftTokenId": 0,
+                "itemIndex": null,
+                "rarity": "Uncommon",
+                "bonusDamage": 0,
+                "affectedAttributes": {
+                    "ArmorMitigation": 75,
+                    "ArmorMitigationAmount": 1,
+                    "Strength": 0
+                },
+                "slug": "unironically-hideous-cap",
+                "name": "Unironically Hideous Cap",
+                "itemDropSound": "cloth-head",
+                "slot": "head",
+                "dieDamage": [],
+                "heroStatComplianceDictionary": {},
+                "allowedHeroClassList": [
+                    "Warrior",
+                    "Ranger",
+                    "Mage"
+                ],
+                "imageSlug": "leather-cap",
+                "levelRequirement": 0,
+                "type": "ItemDto"
+            }
+        ],
+        "equippedItems": [],
+        "calculatedStats": {
+            "strength": 7,
+            "agility": 11,
+            "wisdom": 9,
+            "quickness": 4,
+            "charisma": 6,
+            "chanceToCrit": 220,
+            "chanceToParry": 140,
+            "chanceToHit": 0,
+            "difficultyToHit": 2500,
+            "chanceToDodge": 280,
+            "armorMitigation": 0,
+            "armorMitigationAmount": 0,
+            "itemBonusDamage": 0,
+            "statsBonusDamage": 2,
+            "damageRange": {
+                "lower": 2,
+                "upper": 5
+            }
+        },
+        "heroLevelUpProps": {},
+        "strength": 7,
+        "agility": 11,
+        "wisdom": 9,
+        "quickness": 4,
+        "charisma": 6
+    },
+    "CurrentEncounters": [],
+    "HighestZoneVisited": "wildPrairie",
+    "itemsToMoveToStash": [],
+    "inactiveDailyTiles": [],
+    "inactiveBossTiles": [],
+    "lastDailyResetAt": "2023-05-23T01:28:15.388Z",
+    "leaderStatus": {
+        "furthestZone": "aedos",
+        "totalQuestsUsed": 0,
+        "didBeatBoss": false
+    }
+}
