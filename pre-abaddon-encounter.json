@@ -1,8 +1,8 @@
 {
-    "HeroId": 4,
+    "HeroId": 3,
     "CurrentTile": 21,
     "Hero": {
-        "id": 4,
+        "id": 3,
         "playerId": "",
         "seasonId": 12,
         "name": "Barnett",
