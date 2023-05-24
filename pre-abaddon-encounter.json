@@ -4,7 +4,7 @@
     "Hero": {
         "id": 4,
         "playerId": "",
-        "seasonId": 1,
+        "seasonId": 12,
         "name": "Barnett",
         "heroClass": "Mage",
         "gender": "Female",
