@@ -175,7 +175,36 @@
                 "type": "ItemDto"
             }
         ],
-        "equippedItems": [],
+        "equippedItems": [
+            {
+          "id": "bbf994ae-5c54-4da1-9c6b-e1e2c77cca23",
+          "nftTokenId": 0,
+          "itemIndex": null,
+          "rarity": "Common",
+          "bonusDamage": 200,
+          "affectedAttributes": {
+            "ArmorMitigationAmount": 0,
+            "HitPoints": 1000,
+            "ChanceToHit": 5000
+          },
+          "slug": "wand-of-force",
+          "name": "Wand of Force",
+          "itemDropSound": "wand-rod",
+          "slot": "mainHand",
+          "dieDamage": [
+            {
+              "Sides": 20
+            }
+          ],
+          "heroStatComplianceDictionary": {},
+          "allowedHeroClassList": [
+            "Mage"
+          ],
+          "imageSlug": "wand-of-force",
+          "levelRequirement": 0,
+          "type": "ItemDto"
+        }
+],
         "calculatedStats": {
             "strength": 5,
             "agility": 6,
