@@ -1,6 +1,6 @@
 {
 "maxHeros":33,
-"onlyOne":"false",
+"onlyOne":"true",
 "mintPrice":{
   "basePrice":0.015,
   "boostedPrice":0.02,
