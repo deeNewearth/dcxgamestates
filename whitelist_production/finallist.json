@@ -7,6 +7,7 @@
   "maxQuantity":3
   },
 "whiteList":[
-  "DUMMY REMOVETHIS"
+  "DUMMY REMOVETHIS",
+  "Second DUMMY"
   ]
 }
