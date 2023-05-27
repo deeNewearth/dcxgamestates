@@ -4,9 +4,9 @@
 "mintPrice":{
   "basePrice":0.015,
   "boostedPrice":0.02,
-  "maxQuantity":3
+  "maxQuantity":5
   },
 "whiteList":[
-
+  0x839174a38BA9Df8C726594A198e328f6F923ecB4
   ]
 }
