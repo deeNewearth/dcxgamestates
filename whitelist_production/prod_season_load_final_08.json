@@ -1,0 +1,12 @@
+{
+	"maxHeros": 2800,
+	"onlyOne": false,
+	"whiteList": [
+	
+	],
+	"mintPrice": {
+		"basePrice": 300.0,
+		"boostedPrice": 400.0,
+		"maxQuantity": 5
+	}
+}
