@@ -1,12 +1,12 @@
 {
-    "HeroId": 12,
+    "HeroId": 21,
     "CurrentTile": 2,
     "Hero": {
-        "id": 12,
+        "id": 21,
         "playerId": "",
-        "seasonId": 1,
-        "name": "Leona Allred",
-        "heroClass": "Ranger",
+        "seasonId": 14,
+        "name": "jenny",
+        "heroClass": "Mage",
         "gender": "Female",
         "remainingHitPointsPercentage": 100.0,
         "totalHitPoints": 75.0,
@@ -14,7 +14,7 @@
         "baseSkillPoints": 12,
         "usedUpSkillPoints": 0,
         "isAscended": false,
-        "rarity": 4,
+        "rarity": 3,
         "prestigeLevel": 0,
         "level": 1,
         "experiencePoints": 0,
@@ -24,11 +24,11 @@
         "remainingQuests": 15,
         "skills": [
             {
-                "methodName": "apply_skill_barbed_projectile",
-                "slug": "skill-barbed-projectile",
-                "name": "Barbed Projectile",
-                "description": "Deals 1D6 damage and deals an additional 1D4 damage per round for 2 rounds.",
-                "skillClass": "Ranger",
+                "methodName": "apply_skill_firebolt",
+                "slug": "skill-firebolt",
+                "name": "Firebolt",
+                "description": "Deals 1D8 damage, and deals an additional 1D4-1 damage per round for the next 3 rounds.",
+                "skillClass": "Mage",
                 "requiredSkillPoints": 3,
                 "allocatedSkillPoints": 0,
                 "skillUseInstance": [],
@@ -36,29 +36,29 @@
                     "TotalUses": 0,
                     "CurrentUsesRemaining": 0
                 },
-                "levelRequirement": 1,
-                "id": "8949d3f6-f886-4077-898d-c76680d37e1a",
+                "levelRequirement": 0,
+                "id": "7887eac1-f7d6-4b3a-9fc5-7821ee60d987",
                 "type": "LearnedHeroSkill"
             },
             {
-                "methodName": "apply_skill_herbal_knowledge",
-                "slug": "skill-herbal-knowledge",
-                "name": "Herbal Knowledge",
-                "description": "Heals 3HP and gives 20% Dodge for 2 rounds.",
-                "skillClass": "Ranger",
-                "requiredSkillPoints": 2,
+                "methodName": "apply_skill_ray_of_frost",
+                "slug": "skill-ray-of-frost",
+                "name": "Ray of Frost",
+                "description": "Deals 1D4+1 damge and lowers monster DTH by 15 for 2 rounds.",
+                "skillClass": "Mage",
+                "requiredSkillPoints": 4,
                 "allocatedSkillPoints": 0,
                 "skillUseInstance": [],
                 "skillsCalculatedStats": {
                     "TotalUses": 0,
                     "CurrentUsesRemaining": 0
                 },
-                "levelRequirement": 1,
-                "id": "b1035330-dadd-4426-bde4-9b7c1d050c56",
+                "levelRequirement": 0,
+                "id": "1fcda035-26f2-4cac-9a63-dcdb0bf44481",
                 "type": "LearnedHeroSkill"
             }
         ],
-        "zoneBackgroundType": 3,
+        "zoneBackgroundType": 2,
         "unsecuredDCXValue": {
             "amount": 0.0,
             "withdrawlOrderId": null
@@ -72,17 +72,17 @@
         "difficultyToHit": 2500,
         "inventory": [
             {
-                "id": "6d9809ff-da0d-46db-9d7f-5d5ef907ef02",
+                "id": "6c3f3ac5-0733-45c6-9265-5993a9f8afd1",
                 "nftTokenId": 0,
                 "itemIndex": null,
                 "rarity": "Common",
                 "bonusDamage": 0,
                 "affectedAttributes": {
-                    "Strength": 0
+                    "DodgeRate": 0
                 },
-                "slug": "simple-shortsword",
-                "name": "Simple Shortsword",
-                "itemDropSound": "metal-weapon",
+                "slug": "wand-of-force",
+                "name": "Wand of Force",
+                "itemDropSound": "wand-rod",
                 "slot": "mainHand",
                 "dieDamage": [
                     {
@@ -91,22 +91,22 @@
                 ],
                 "heroStatComplianceDictionary": {},
                 "allowedHeroClassList": [
-                    "Ranger"
+                    "Mage"
                 ],
-                "imageSlug": "simple-shortsword",
-                "levelRequirement": 1,
+                "imageSlug": "wand-of-force",
+                "levelRequirement": 0,
                 "type": "ItemDto"
             },
             {
-                "id": "40eaab11-4a8c-4b5f-a3d3-9358835cc591",
+                "id": "6ddbc465-007a-4357-987d-53dfd83ad3aa",
                 "nftTokenId": 0,
                 "itemIndex": null,
-                "rarity": "Uncommon",
+                "rarity": "Common",
                 "bonusDamage": 0,
                 "affectedAttributes": {
                     "ArmorMitigation": 600,
-                    "ArmorMitigationAmount": 2,
-                    "HitPoints": 0
+                    "ArmorMitigationAmount": 1,
+                    "Strength": 0
                 },
                 "slug": "hand-me-down-leathers",
                 "name": "Hand me down Leathers",
@@ -120,19 +120,19 @@
                     "Mage"
                 ],
                 "imageSlug": "broken-in-leathers",
-                "levelRequirement": 1,
+                "levelRequirement": 0,
                 "type": "ItemDto"
             },
             {
-                "id": "0e5e8d4f-b275-4e95-b88c-927bf8b48bbb",
+                "id": "0c9bbec9-4087-4cd1-8741-3794d29e3e54",
                 "nftTokenId": 0,
                 "itemIndex": null,
-                "rarity": "Common",
+                "rarity": "Rare",
                 "bonusDamage": 0,
                 "affectedAttributes": {
-                    "ArmorMitigation": 200,
-                    "ArmorMitigationAmount": 2,
-                    "CriticalHitRate": 0
+                    "ArmorMitigation": 75,
+                    "ArmorMitigationAmount": 1,
+                    "Strength": 0
                 },
                 "slug": "ill-fitted-sandals",
                 "name": "Ill Fitted Sandals",
@@ -146,19 +146,19 @@
                     "Mage"
                 ],
                 "imageSlug": "rough-slippers",
-                "levelRequirement": 1,
+                "levelRequirement": 0,
                 "type": "ItemDto"
             },
             {
-                "id": "5bb59769-ac07-4f63-9a31-7a7e536ce074",
+                "id": "63fdc45b-ca68-4cb1-a036-ba0a9a801b5e",
                 "nftTokenId": 0,
                 "itemIndex": null,
-                "rarity": "Common",
+                "rarity": "Uncommon",
                 "bonusDamage": 0,
                 "affectedAttributes": {
-                    "ArmorMitigation": 250,
-                    "ArmorMitigationAmount": 2,
-                    "CriticalHitRate": 0
+                    "ArmorMitigation": 75,
+                    "ArmorMitigationAmount": 1,
+                    "Wisdom": 0
                 },
                 "slug": "unironically-hideous-cap",
                 "name": "Unironically Hideous Cap",
@@ -172,7 +172,7 @@
                     "Mage"
                 ],
                 "imageSlug": "leather-cap",
-                "levelRequirement": 1,
+                "levelRequirement": 0,
                 "type": "ItemDto"
             }
         ],
@@ -206,15 +206,15 @@
         }],
         "calculatedStats": {
             "strength": 6,
-            "agility": 12,
-            "wisdom": 6,
-            "quickness": 6,
-            "charisma": 10,
-            "chanceToCrit": 240,
+            "agility": 6,
+            "wisdom": 13,
+            "quickness": 10,
+            "charisma": 5,
+            "chanceToCrit": 120,
             "chanceToParry": 120,
             "chanceToHit": 0,
             "difficultyToHit": 2500,
-            "chanceToDodge": 320,
+            "chanceToDodge": 460,
             "armorMitigation": 0,
             "armorMitigationAmount": 0,
             "itemBonusDamage": 0,
@@ -226,10 +226,10 @@
         },
         "heroLevelUpProps": {},
         "strength": 6,
-        "agility": 12,
-        "wisdom": 6,
-        "quickness": 6,
-        "charisma": 10
+        "agility": 6,
+        "wisdom": 13,
+        "quickness": 10,
+        "charisma": 5
     },
     "CurrentEncounters": [],
     "HighestZoneVisited": "wildPrairie",
@@ -238,8 +238,9 @@
     "inactiveBossTiles": [],
     "lastDailyResetAt": "0001-01-01T00:00:00Z",
     "leaderStatus": {
-        "furthestZone": "aedos",
+        "farthestZoneDiscovered": "aedos",
         "totalQuestsUsed": 0,
-        "didBeatBoss": false
+        "isFinalBossDefeated": false,
+        "benchmarkUsedQuests": 0
     }
 }
