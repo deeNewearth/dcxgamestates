@@ -6,6 +6,5 @@
   "registrationCloseDate": "2023-06-28T00:00:00.000Z",
   "seasonOpenDate": "2023-05-31T00:00:00.000Z",
   "seasonCloseDate": "2023-06-28T00:00:00.000Z",
-  "dcxCostToRegister": 0.00,
-  "leaderBoardRefreshInterval": 1
+  "dcxCostToRegister": 0.00
 }
