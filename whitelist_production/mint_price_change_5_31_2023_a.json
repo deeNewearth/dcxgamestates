@@ -1,0 +1,18 @@
+{
+	"maxHeros": 2800,
+	"onlyOne": false,
+	"whiteList": [
+	
+	],
+	
+  "rewardMints":[
+    {"wallet":"0x839174a38BA9Df8C726594A198e328f6F923ecB4","price":0,"id":"invite_and_win"},
+    {"wallet":"0xC1212C6C96965Ba05AA246FA32Cd1717e9Ecfafb","price":0,"id":"invite_and_win"}
+	  
+    ],
+	"mintPrice": {
+		"basePrice": 150.0,
+		"boostedPrice": 250.0,
+		"maxQuantity": 5
+	}
+}
