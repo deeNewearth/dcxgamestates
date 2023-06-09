@@ -7,7 +7,7 @@
   "maxQuantity":3,
   },
   "rewardMints":[
-    {"wallet":"0x379bA20b339849bBfafA822b2c5714b616842Aca","price":0,"id":"Win1"},
+    {"wallet":"0x379bA20b339849bBfafA822b2c5714b616842Aca","price":0,"id":"Win2"},
     {"wallet":"0x25250176f10c989a774e294530e7213183e4cd1c","price":0,"id":"Win1"}
     ],
 "whiteList":[]
