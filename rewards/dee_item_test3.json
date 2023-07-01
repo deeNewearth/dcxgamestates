@@ -2,11 +2,11 @@
   {
     "address":"0x379bA20b339849bBfafA822b2c5714b616842Aca",
     "slot":"shard",
-    "rewardId":"season1"
+    "rewardId":"season1-item"
   },
   {
     "address":"0x729Ac54Fb60b13C30fdE45b111B1A5dA65d0d6fD",
     "slot":"skill",
-    "rewardId":"season1"
+    "rewardId":"season1-item"
   }
 ]
