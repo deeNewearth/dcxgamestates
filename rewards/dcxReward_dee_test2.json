@@ -1,12 +1,12 @@
 [
   {
     "address":"0x379bA20b339849bBfafA822b2c5714b616842Aca",
-    "amount":10.77
+    "amount":10.77,
     "rewardId":"season1"
   },
   {
     "address":"0x729Ac54Fb60b13C30fdE45b111B1A5dA65d0d6fD",
-    "amount":12.77
+    "amount":12.77,
     "rewardId":"season1"
   }
 ]
