@@ -1,0 +1,22 @@
+[
+  {
+    "address":"0x839174a38BA9Df8C726594A198e328f6F923ecB4",
+    "slot":"shard",
+    "rewardId":"season1-item"
+  },
+  {
+    "address":"0x839174a38BA9Df8C726594A198e328f6F923ecB4",
+    "slot":"skill",
+    "rewardId":"season1-item1"
+  },
+  {
+    "address":"0x379bA20b339849bBfafA822b2c5714b616842Aca",
+    "slot":"skill",
+    "rewardId":"season1-item2"
+  },
+  {
+    "address":"0x729Ac54Fb60b13C30fdE45b111B1A5dA65d0d6fD",
+    "slot":"skill",
+    "rewardId":"season1-item"
+  }
+]
