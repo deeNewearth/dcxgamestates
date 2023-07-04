@@ -1,0 +1,12 @@
+{
+"seasonId":2,
+"seasonName":"Season of Wizard",
+"registrationOpenDate":"2023-07-02T11:00:00.000000-00:00",
+"registrationCloseDate":"2023-07-05T11:00:00.000000-06:00",
+
+"seasonOpenDate":"2023-07-02T11:00:00.000000-00:00",
+"seasonCloseDate":"2023-07-05T00:00:00.000000-06:00",
+
+"dcxCostToRegister":5.00
+
+}
