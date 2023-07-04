@@ -1,0 +1,327 @@
+[
+ {
+  "address": "0xAB1F25FD491D6855E42DDBf55ecB3028ccC04065",
+  "slot": "shard",
+  "rewardId": "s2_shard_41834"
+ },
+ {
+  "address": "0xD1C241A748e9a8849fF61B5676b77574293D9edf",
+  "slot": "shard",
+  "rewardId": "s2_shard_47275"
+ },
+ {
+  "address": "0x40f5B06bC942a6C83d268F0B60A25B7c0410a18F",
+  "slot": "shard",
+  "rewardId": "s2_shard_94258"
+ },
+ {
+  "address": "0xA2BC7B3ff1A732651C336c98B4BfF4456193fA6D",
+  "slot": "shard",
+  "rewardId": "s2_shard_95252"
+ },
+ {
+  "address": "0xfd6f60b53e397160777a0f4cbc5849ca0ba6a71d",
+  "slot": "shard",
+  "rewardId": "s2_shard_14762"
+ },
+ {
+  "address": "0x29e05faE801de9269837506A18750Ec5Fc0F0452",
+  "slot": "shard",
+  "rewardId": "s2_shard_53213"
+ },
+ {
+  "address": "0x341D89D4bDA044e91d8f6b0E5Ecc4FBD53fE20A0",
+  "slot": "shard",
+  "rewardId": "s2_shard_3685"
+ },
+ {
+  "address": "0x99CBDFFF6d2bfd53f2eAD0F1896C1709C1854949",
+  "slot": "shard",
+  "rewardId": "s2_shard_2513"
+ },
+ {
+  "address": "0x0FD279b463ff6fAf896Ca753adb5ad2232Ee9AAF",
+  "slot": "shard",
+  "rewardId": "s2_shard_78175"
+ },
+ {
+  "address": "0x0212dfde16825e24446b91f0525235080443c1c0",
+  "slot": "shard",
+  "rewardId": "s2_shard_65089"
+ },
+ {
+  "address": "0xAaE01A4132e43de63137DD4a4AD6f8Ad29F48A77",
+  "slot": "shard",
+  "rewardId": "s2_shard_35210"
+ },
+ {
+  "address": "0x2d5E138a2f5aE01aB52061c4c7729D9410D262dC",
+  "slot": "shard",
+  "rewardId": "s2_shard_46264"
+ },
+ {
+  "address": "0x52E115CF1faB025F6cB68B0db5e1884170f37190",
+  "slot": "shard",
+  "rewardId": "s2_shard_28777"
+ },
+ {
+  "address": "0x11c253e09F526A2A3E85532fB8c6344AB4f07BbD",
+  "slot": "shard",
+  "rewardId": "s2_shard_65933"
+ },
+ {
+  "address": "0x4c8592D4349fDb81684Be240e74e292d0E64CFA1",
+  "slot": "shard",
+  "rewardId": "s2_shard_28958"
+ },
+ {
+  "address": "0xbD0396F11A19A8389b3d999C1b2f7255929b657E",
+  "slot": "shard",
+  "rewardId": "s2_shard_31625"
+ },
+ {
+  "address": "0xcbB5453Af2aaFf751fD6fB56A046D5148609F6Bf",
+  "slot": "shard",
+  "rewardId": "s2_shard_79843"
+ },
+ {
+  "address": "0xC1212C6C96965Ba05AA246FA32Cd1717e9Ecfafb",
+  "slot": "shard",
+  "rewardId": "s2_shard_7910"
+ },
+ {
+  "address": "0x921e48B3C1CfA720bB299c3aBECcde2f9141CF4B",
+  "slot": "shard",
+  "rewardId": "s2_shard_46579"
+ },
+ {
+  "address": "0x00d3bE15cc9A9d071b6810531fbAC7938C50aC39",
+  "slot": "shard",
+  "rewardId": "s2_shard_79360"
+ },
+ {
+  "address": "0x234b3652d3d54ebf2eafb86e204fd25586f77ec9",
+  "slot": "skill",
+  "rewardId": "s2_skill_16875"
+ },
+ {
+  "address": "0x3EDBC9Ba117759edaB8D208D7f8dB72D73cD247A",
+  "slot": "skill",
+  "rewardId": "s2_skill_1705"
+ },
+ {
+  "address": "0x0A8db5B8131b00936d43BC3f84A08B80b141134f",
+  "slot": "skill",
+  "rewardId": "s2_skill_35775"
+ },
+ {
+  "address": "0xA2d0afED61a04ea717A48d5b565Dcd78A240E579",
+  "slot": "skill",
+  "rewardId": "s2_skill_73005"
+ },
+ {
+  "address": "0xC86367D7fDfc43213fF9B83113aFE869653e6D3d",
+  "slot": "skill",
+  "rewardId": "s2_skill_19735"
+ },
+ {
+  "address": "0x05992F9e21e056533B4F0787DCC0196cA78D6C9D",
+  "slot": "skill",
+  "rewardId": "s2_skill_94763"
+ },
+ {
+  "address": "0xB468b42cc5589A716F5Cf1506A63efab1234954a",
+  "slot": "skill",
+  "rewardId": "s2_skill_3805"
+ },
+ {
+  "address": "0x927d49784d45087B04857B7232Ba42609f81cB61",
+  "slot": "skill",
+  "rewardId": "s2_skill_56536"
+ },
+ {
+  "address": "0x526d50809D7D1710Ee82bf5a73CfcF431a264893",
+  "slot": "skill",
+  "rewardId": "s2_skill_44374"
+ },
+ {
+  "address": "0xfaD01550fF8a1903736CDdF7f19a15bA02098a5d",
+  "slot": "skill",
+  "rewardId": "s2_skill_32337"
+ },
+ {
+  "address": "0xF6Ab780df428088aCcE47a94e4684b1734CAEd59",
+  "slot": "skill",
+  "rewardId": "s2_skill_15557"
+ },
+ {
+  "address": "0x024C195679042804deD7Dd09831cf4bcB0bEded2",
+  "slot": "skill",
+  "rewardId": "s2_skill_42454"
+ },
+ {
+  "address": "0x77CD22B584C063dF360Ef6B324ECCe08B19839CA",
+  "slot": "skill",
+  "rewardId": "s2_skill_56154"
+ },
+ {
+  "address": "0x5636aA154b23239EB1f4ae95Ceb36410D2CA867A",
+  "slot": "skill",
+  "rewardId": "s2_skill_36046"
+ },
+ {
+  "address": "0xfF665085362E351e0e334FB646d6bebC82Bb7ef3",
+  "slot": "skill",
+  "rewardId": "s2_skill_22389"
+ },
+ {
+  "address": "0x0FD279b463ff6fAf896Ca753adb5ad2232Ee9AAF",
+  "slot": "skill",
+  "rewardId": "s2_skill_48860"
+ },
+ {
+  "address": "0x9e01852683b88D829551895C7BFd1799b121fdBC",
+  "slot": "skill",
+  "rewardId": "s2_skill_35042"
+ },
+ {
+  "address": "0xC1212C6C96965Ba05AA246FA32Cd1717e9Ecfafb",
+  "slot": "skill",
+  "rewardId": "s2_skill_7164"
+ },
+ {
+  "address": "0x7650B3004EEe39C2314fdB99C5cf25f632D84CBE",
+  "slot": "skill",
+  "rewardId": "s2_skill_31304"
+ },
+ {
+  "address": "0x05e4BBd706F523d852086C8417a17754c223dF88",
+  "slot": "skill",
+  "rewardId": "s2_skill_40527"
+ },
+ {
+  "address": "0x047FE25b45dd7F73258d858971cFe41e004e6132",
+  "slot": "skill",
+  "rewardId": "s2_skill_34072"
+ },
+ {
+  "address": "0xCff15178629375cD52f579127A03d78B981BbeE7",
+  "slot": "skill",
+  "rewardId": "s2_skill_28351"
+ },
+ {
+  "address": "0x234b3652d3d54ebf2eafb86e204fd25586f77ec9",
+  "slot": "skill",
+  "rewardId": "s2_skill_82666"
+ },
+ {
+  "address": "0x526d50809D7D1710Ee82bf5a73CfcF431a264893",
+  "slot": "skill",
+  "rewardId": "s2_skill_83087"
+ },
+ {
+  "address": "0xfF665085362E351e0e334FB646d6bebC82Bb7ef3",
+  "slot": "skill",
+  "rewardId": "s2_skill_78908"
+ },
+ {
+  "address": "0xB7ff90fe691c43Ccfc1D4e68Bb37568eB602b905",
+  "slot": "skill",
+  "rewardId": "s2_skill_30136"
+ },
+ {
+  "address": "0xfaD01550fF8a1903736CDdF7f19a15bA02098a5d",
+  "slot": "skill",
+  "rewardId": "s2_skill_10423"
+ },
+ {
+  "address": "0xD43a6388eAD01B950598EA589abC05103650d1a4",
+  "slot": "skill",
+  "rewardId": "s2_skill_7712"
+ },
+ {
+  "address": "0x77CD22B584C063dF360Ef6B324ECCe08B19839CA",
+  "slot": "skill",
+  "rewardId": "s2_skill_25958"
+ },
+ {
+  "address": "0x8b4eB5775944B752b74F1E4a0590BaD8f5c7f26a",
+  "slot": "skill",
+  "rewardId": "s2_skill_39313"
+ },
+ {
+  "address": "0xAaE01A4132e43de63137DD4a4AD6f8Ad29F48A77",
+  "slot": "skill",
+  "rewardId": "s2_skill_18858"
+ },
+ {
+  "address": "0x921e48B3C1CfA720bB299c3aBECcde2f9141CF4B",
+  "slot": "skill",
+  "rewardId": "s2_skill_83052"
+ },
+ {
+  "address": "0x07c912aae122a0e1dBe081E1Ee9207467C54e1Ad",
+  "slot": "skill",
+  "rewardId": "s2_skill_18308"
+ },
+ {
+  "address": "0x1B2D75880342794C5593f7F664612372A2dFd713",
+  "slot": "skill",
+  "rewardId": "s2_skill_40570"
+ },
+ {
+  "address": "0x77CD22B584C063dF360Ef6B324ECCe08B19839CA",
+  "slot": "skill",
+  "rewardId": "s2_skill_58317"
+ },
+ {
+  "address": "0xAaE01A4132e43de63137DD4a4AD6f8Ad29F48A77",
+  "slot": "skill",
+  "rewardId": "s2_skill_99604"
+ },
+ {
+  "address": "0x024C195679042804deD7Dd09831cf4bcB0bEded2",
+  "slot": "skill",
+  "rewardId": "s2_skill_50308"
+ },
+ {
+  "address": "0xadf1da4e02D2345eC184d9B08A08daF4B1E4a4E6",
+  "slot": "skill",
+  "rewardId": "s2_skill_37427"
+ },
+ {
+  "address": "0x77CD22B584C063dF360Ef6B324ECCe08B19839CA",
+  "slot": "skill",
+  "rewardId": "s2_skill_12427"
+ },
+ {
+  "address": "0x95498Fc3FE6B7B12D9956b2D94f63589926750A2",
+  "slot": "skill",
+  "rewardId": "s2_skill_73271"
+ },
+ {
+  "address": "0x234b3652d3d54ebf2eafb86e204fd25586f77ec9",
+  "slot": "skill",
+  "rewardId": "s2_skill_93154"
+ },
+ {
+  "address": "0x921e48B3C1CfA720bB299c3aBECcde2f9141CF4B",
+  "slot": "skill",
+  "rewardId": "s2_skill_60454"
+ },
+ {
+  "address": "0x9c1cBE6DbDe00D48b5266cB0427C152602A7ce69",
+  "slot": "skill",
+  "rewardId": "s2_skill_72313"
+ },
+ {
+  "address": "0x0FD279b463ff6fAf896Ca753adb5ad2232Ee9AAF",
+  "slot": "skill",
+  "rewardId": "s2_skill_33656"
+ },
+ {
+  "address": "0xCff15178629375cD52f579127A03d78B981BbeE7",
+  "slot": "skill",
+  "rewardId": "s2_skill_62117"
+ }
+]
