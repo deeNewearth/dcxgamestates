@@ -175,7 +175,7 @@
 {"wallet":"0x9CBF997344519dBa9303ef05b67532aF015FF6C9","price":0,"id":"free_hero_s2_claim_167"},
 {"wallet":"0x927d49784d45087B04857B7232Ba42609f81cB61","price":0,"id":"free_hero_s2_claim_168"},
 {"wallet":"0x42747b6F7831e1ae9Fa5DD83f3bFa067238EEd2C","price":0,"id":"free_hero_s2_claim_169"},
-{"wallet":"0x3837710839138768a198aB7168eE8E4A65d12dBE","price":0,"id":"free_hero_s2_claim_170"},
+{"wallet":"0x2d5E138a2f5aE01aB52061c4c7729D9410D262dC","price":0,"id":"free_hero_s2_claim_170"},
 {"wallet":"0x69ca2eDDf58cE32C150c5f62b63C593dEe006a2a","price":0,"id":"free_hero_s2_claim_171"},
 {"wallet":"0x047FE25b45dd7F73258d858971cFe41e004e6132","price":0,"id":"free_hero_s2_claim_172"},
 {"wallet":"0xCff15178629375cD52f579127A03d78B981BbeE7","price":0,"id":"free_hero_s2_claim_173"},
@@ -312,7 +312,7 @@
 {"wallet":"0x46c33Bb71956a3Ced54b0079e35a51ac2ebDc0d3","price":0,"id":"free_hero_s2_claim_304"},
 {"wallet":"0x46c33Bb71956a3Ced54b0079e35a51ac2ebDc0d3","price":0,"id":"free_hero_s2_claim_305"},
 {"wallet":"0x0FD279b463ff6fAf896Ca753adb5ad2232Ee9AAF","price":0,"id":"free_hero_s2_claim_306"},
-{"wallet":"0x3837710839138768a198aB7168eE8E4A65d12dBE","price":0,"id":"free_hero_s2_claim_307"},
+{"wallet":"0x2d5E138a2f5aE01aB52061c4c7729D9410D262dC","price":0,"id":"free_hero_s2_claim_307"},
 {"wallet":"0x8a4795Ae5870BEAbf10030dA5F4D607096E3Ef93","price":0,"id":"free_hero_s2_claim_308"},
 {"wallet":"0x05e4BBd706F523d852086C8417a17754c223dF88","price":0,"id":"free_hero_s2_claim_309"},
 {"wallet":"0x3a991cA47f27fb781c6F415572C785A172175420","price":0,"id":"free_hero_s2_claim_310"},
@@ -343,7 +343,7 @@
 {"wallet":"0xee325B05a912015291E5BB939df4B0e9Ff118963","price":0,"id":"free_hero_s2_claim_335"},
 {"wallet":"0xee325B05a912015291E5BB939df4B0e9Ff118963","price":0,"id":"free_hero_s2_claim_336"},
 {"wallet":"0xee325B05a912015291E5BB939df4B0e9Ff118963","price":0,"id":"free_hero_s2_claim_337"},
-{"wallet":"0x3837710839138768a198aB7168eE8E4A65d12dBE","price":0,"id":"free_hero_s2_claim_338"},
+{"wallet":"0x2d5E138a2f5aE01aB52061c4c7729D9410D262dC","price":0,"id":"free_hero_s2_claim_338"},
 {"wallet":"0x50CCAD5F54181aaD3757f0Fbc2BA701E703A0F16","price":0,"id":"free_hero_s2_claim_339"},
 {"wallet":"0x0ab1D2CE2253A668bB80B015EE2E35D1A82e03f5","price":0,"id":"free_hero_s2_claim_340"},
 {"wallet":"0x8B6bbbe4934b28faa040c404F0E7788B1e67fC2c","price":0,"id":"free_hero_s2_claim_341"},
@@ -394,8 +394,9 @@
 {"wallet":"0x6c7c3c396d8541fEd2f46f9E7b57B48ab4296A88","price":0,"id":"free_hero_s2_claim_386"},
 {"wallet":"0x6c7c3c396d8541fEd2f46f9E7b57B48ab4296A88","price":0,"id":"free_hero_s2_claim_387"},
 {"wallet":"0xadf1da4e02D2345eC184d9B08A08daF4B1E4a4E6","price":0,"id":"free_hero_s2_claim_388"},
-{"wallet":"0x839174a38BA9Df8C726594A198e328f6F923ecB4","price":0,"id":"free_hero_s2_claim_389"},
-{"wallet":"0x4b1FcE0b7aF0e111Ec6487552f2e7eDD7fBb0371","price":0,"id":"free_hero_s2_claim_390"}
+{"wallet":"0x4b1FcE0b7aF0e111Ec6487552f2e7eDD7fBb0371","price":0,"id":"free_hero_s2_claim_389"},
+{"wallet":"0x839174a38BA9Df8C726594A198e328f6F923ecB4","price":0,"id":"free_hero_s2_claim_390"}
+
 	  
     ],
 	"mintPrice": {
