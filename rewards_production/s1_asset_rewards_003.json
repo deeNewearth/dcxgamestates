@@ -1,0 +1,27 @@
+[
+	{
+		"address": "0x526d50809D7D1710Ee82bf5a73CfcF431a264893",
+		"slot": "skill",
+		"rewardId": "s2_7_18_001"
+	},
+	{
+		"address": "0xB7ff90fe691c43Ccfc1D4e68Bb37568eB602b905",
+		"slot": "skill",
+		"rewardId": "s2_7_18_002"
+	},
+	{
+		"address": "0xCff15178629375cD52f579127A03d78B981BbeE7",
+		"slot": "skill",
+		"rewardId": "s2_7_18_003"
+	},
+	{
+		"address": "0x921e48B3C1CfA720bB299c3aBECcde2f9141CF4B",
+		"slot": "skill",
+		"rewardId": "s2_7_18_004"
+	},
+	{
+		"address": "0x7650B3004EEe39C2314fdB99C5cf25f632D84CBE",
+		"slot": "skill",
+		"rewardId": "s2_7_18_005"
+	}
+]
