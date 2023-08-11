@@ -1,0 +1,22 @@
+[
+	{
+		"address": "0x05992F9e21e056533B4F0787DCC0196cA78D6C9D",
+		"slot": "shard",
+		"rewardId": "jaybe_8_11"
+	},
+  {
+		"address": "0xc6158f87f5D68dC0171fC498047318Fd876a3167",
+		"slot": "shard",
+		"rewardId": "jaybe_8_11"
+	},
+  {
+		"address": "0xdf35B01786c1108B04482F53Ad1E8C0470339c7a",
+		"slot": "shard",
+		"rewardId": "jaybe_8_11"
+	},
+  {
+		"address": "0xBbE65723F9575907E84aDf4bAc31A09d0e7fa5e0",
+		"slot": "shard",
+		"rewardId": "jaybe_8_11"
+	}
+]
