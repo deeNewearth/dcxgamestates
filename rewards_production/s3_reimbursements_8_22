@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0xfaD01550fF8a1903736CDdF7f19a15bA02098a5d",
+    "amount": 20.00,
+    "rewardId": "s3_registration_bug_001"
+  },
+  {
+    "address": "0xfaf09C4d3213fb8d0EE7f8Cc6F11C6248a213993",
+    "amount": 20.00,
+    "rewardId": "s3_registration_bug_002"
+  }
+ ]
