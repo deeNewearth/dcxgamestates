@@ -2,9 +2,9 @@
   "seasonId": 101,
   "seasonName": "Tester Bro Season",
   "registrationOpenDate": "2023-04-26T14:15:38.484Z",
-  "registrationCloseDate": "2023-09-04T14:15:38.485Z",
+  "registrationCloseDate": "2023-11-04T14:15:38.485Z",
   "seasonOpenDate": "2023-04-26T14:15:38.485Z",
-  "seasonCloseDate":"2023-09-11T14:15:38.485Z",
+  "seasonCloseDate":"2023-11-11T14:15:38.485Z",
   "dcxCostToRegister": 0.05,
   "isRegistrationOpen": true,
   "isGamePlayOpen": true
