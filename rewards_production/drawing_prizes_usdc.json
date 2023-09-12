@@ -1,0 +1,53 @@
+[
+ {
+   "address": "0x48f91cbfe73fb8b37ebeba413b2e054566beec36",
+   "amount": 10.00,
+   "rewardId": "drawing_prizes_gatreno_raffle"
+ },
+ {
+   "address": "0x969f2f8d84e73d5306d0f5d6871c58255da2867d",
+   "amount": 10.00,
+   "rewardId": "drawing_prizes_gatreno_raffle"
+ },
+  {
+   "address": "0x7a120d3150530a1cb538711ef04623aa8d90ff4e",
+   "amount": 10.00,
+   "rewardId": "drawing_prizes_gatreno_raffle"
+ },
+  {
+   "address": "0x0e9ba7582199af5847c4c44d96fb5105e048f431",
+   "amount": 10.00,
+   "rewardId": "drawing_prizes_gatreno_raffle"
+ },
+  {
+   "address": "0xb3f7d965bd617fcde66af031f559143411779da6",
+   "amount": 10.00,
+   "rewardId": "drawing_prizes_gatreno_raffle"
+ },
+  {
+   "address": "0x0f28f80e1de4c001660bbad9e95e256979304a97",
+   "amount": 10.00,
+   "rewardId": "drawing_prizes_gatreno_raffle"
+ },
+  {
+   "address": "0x95498fc3fe6b7b12d9956b2d94f63589926750a2",
+   "amount": 10.00,
+   "rewardId": "drawing_prizes_gatreno_raffle"
+ },
+  {
+   "address": "0x05e4bbd706f523d852086c8417a17754c223df88",
+   "amount": 10.00,
+   "rewardId": "drawing_prizes_gatreno_raffle"
+ },
+  {
+   "address": "0xf1fe6d04b1acbacaf493ac6ce63ccbf9262b3bb9",
+   "amount": 10.00,
+   "rewardId": "drawing_prizes_gatreno_raffle"
+ },
+   {
+   "address": "0x969f2f8d84e73d5306d0f5d6871c58255da2867d",
+   "amount": 10.00,
+   "rewardId": "drawing_prizes_gatreno_raffle"
+ }
+ 
+]
