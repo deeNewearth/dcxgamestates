@@ -1,0 +1,38 @@
+[
+	{
+		"address": "0xbd0396f11a19a8389b3d999c1b2f7255929b657e ",
+		"slot": "shard",
+		"rewardId": "gatreno_raffle"
+	},
+		{
+		"address": "0xd17542fce8b48817cd70d474f04bae09ce934c62 ",
+		"slot": "shard",
+		"rewardId": "gatreno_raffle"
+	},
+		{
+		"address": "0x3edbc9ba117759edab8d208d7f8db72d73cd247a ",
+		"slot": "shard",
+		"rewardId": "gatreno_raffle"
+	},
+		{
+		"address": "0xff665085362e351e0e334fb646d6bebc82bb7ef3 ",
+		"slot": "shard",
+		"rewardId": "gatreno_raffle"
+	},
+		{
+		"address": "0xf4a8b052afbd2584d0a12c1711887ef8b2f4b44a ",
+		"slot": "shard",
+		"rewardId": "gatreno_raffle"
+	},
+		{
+		"address": "0x4577a731afcd006243a39d0e55b58894619058d2 ",
+		"slot": "shard",
+		"rewardId": "gatreno_raffle"
+	},
+		{
+		"address": "0x921e48b3c1cfa720bb299c3abeccde2f9141cf4b ",
+		"slot": "shard",
+		"rewardId": "gatreno_raffle"
+	}
+	
+]
