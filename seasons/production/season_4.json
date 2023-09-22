@@ -1,0 +1,9 @@
+{
+  "seasonId": 4,
+  "seasonName": "DFK Welcome",
+  "registrationOpenDate": "2023-09-21T00:00:00.000Z",
+  "registrationCloseDate": "2023-09-30T04:00:00.000Z",
+  "seasonOpenDate": "2023-09-21T00:00:00.000Z",
+  "seasonCloseDate": "2023-10-21T04:00:00.000Z",
+  "dcxCostToRegister": 15.00
+}
