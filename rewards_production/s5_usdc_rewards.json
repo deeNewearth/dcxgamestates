@@ -1,0 +1,127 @@
+[
+ {
+   "address": "0x473f14305b9ad552ae8fd0dba5d2b3b2c300c4e8",
+   "amount": 67.77,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x63e0b90ac6989213e7551eccf4eea80f5d3873e1",
+   "amount": 54.84,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x95498fc3fe6b7b12d9956b2d94f63589926750a2",
+   "amount": 48.18,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x234b3652d3d54ebf2eafb86e204fd25586f77ec9",
+   "amount": 37.83,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x34782e1086b790fbbbe8d0ef7a0cbd83462d54f7",
+   "amount": 36.14,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x57346d8ead83025c8f0ade725ce88db7370c1e91",
+   "amount": 30.17,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0xcff15178629375cd52f579127a03d78b981bbee7",
+   "amount": 29.44,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0xd17542fce8b48817cd70d474f04bae09ce934c62",
+   "amount": 28.11,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x5b8a9fde626ac91a59132458a390abd8eb270aee",
+   "amount": 24.23,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x97b215b9b79c02008da7ae2a7e306c35ea4c102d",
+   "amount": 18.98,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x969f2f8d84e73d5306d0f5d6871c58255da2867d",
+   "amount": 18.49,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x3e1d86eeffefc73ff7a23f0694f6f8d006746449",
+   "amount": 14.84,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0xb6b2087a639d45f83ed2820a4582f44706ef789a",
+   "amount": 13.14,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x0fd279b463ff6faf896ca753adb5ad2232ee9aaf",
+   "amount": 13.02,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x24ef6cc5f683aa20234441fbfd16276819c70ab0",
+   "amount": 11.68,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x31b89ad5f6e2a47f9746043df20ec01c60472dc2",
+   "amount": 10.95,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0xb7ff90fe691c43ccfc1d4e68bb37568eb602b905",
+   "amount": 6.57,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x5a372891755dd8664e376ce86d184386729d24e4",
+   "amount": 5.84,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x8a2de3a00ce3f1c43005b8248f3ac65c53659757",
+   "amount": 4.38,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0xbc23f5187d2554468df3c93c30b0fb0100647ea6",
+   "amount": 3.29,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0xf1fe6d04b1acbacaf493ac6ce63ccbf9262b3bb9",
+   "amount": 3.29,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0xc4035032c8e030ad65801278c7f87de70137d1b5",
+   "amount": 3.29,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x42747b6f7831e1ae9fa5dd83f3bfa067238eed2c",
+   "amount": 1.46,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x9c2694293154f17b37b0715f2e4068298cd2eb2c",
+   "amount": 1.46,
+   "rewardId": "season_5_rewards"
+ },
+ {
+   "address": "0x05e4bbd706f523d852086c8417a17754c223df88",
+   "amount": 1.46,
+   "rewardId": "season_5_rewards"
+ }
+]
